@@ -6,7 +6,7 @@ int32 X = 1
 int32 Y = 2
 int32 Z = 3
 
-int32 mode
+int32 control_mode
 
 float32 relative_velocity
 
